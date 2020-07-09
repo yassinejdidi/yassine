@@ -1,0 +1,136 @@
+h2{
+    size: 100px;
+    color:yellow;
+    text-align: left;
+    font-size: 30px;
+}
+h1{
+    color:red;
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 15%;
+}
+img{
+    width: 6%;
+    height: 10%;
+    border-radius: 8px;
+    margin: 1%;
+    justify-content: space-around;
+}
+body{
+  background-color:black;
+  margin: 90px;
+}
+.list{
+    text-align: end;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width:100%;
+    top: 0px;
+    right: 0px;
+    background-color: orangered;
+}
+.list > li {
+    margin:5px;
+}
+ul> li > a:hover{
+    color:black;
+}
+ul > li > a{
+    color:yellow;
+}
+video{
+    width:30%;
+    height:40%;
+    border-radius: 6%;
+}
+iframe{
+    width: 30%;
+    height: 40%;
+    border-radius: 6%;
+}
+.contact{
+    font-size:100px;
+    font-style:italic;
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20%;
+}
+.project{
+    font-size:100px;
+    font-style:italic;
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20%;    
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+ul>li{
+    margin: 5px;
+    list-style: none;
+}
+.logo{
+    color:unset;
+    list-style-type: none;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+}
+#first{
+    color:red;
+    text-align:center;
+    font-style: italic;
+    font-size: 30px;
+}
+.contact2{
+    justify-content: space-around;
+    display: flex;
+}
+.allvideo{
+    display: flex;
+    justify-content: space-around;
+}
+.background{
+    background-color: yellow;
+} 
+ol{
+    color: yellow;
+    font-style: italic;
+    margin-top: 10%;
+    background-color: black;
+    width:100%;
+}
+.info a{
+    color:yellow;
+}
+.info a:hover{
+    color:red;
+}
+.personnelinfo{
+    color:orangered;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 20px ;
+}
+#Pinfo{
+    color: red;
+    font-size: 25px;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+#me{
+    justify-content: space-around;
+}
+ol{
+    background-image:url("https://www.entreprises-magazine.com/wp-content/uploads/2020/05/Gomycode-et-Tunisia-Jobs-696x385.jpg");
+    padding-left: 0%;
+}
